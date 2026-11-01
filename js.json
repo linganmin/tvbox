@@ -1530,14 +1530,6 @@
       "playerType": 2
     },
     {
-      "name": "B站直播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
       "name": "Yoursmile",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
@@ -1621,14 +1613,6 @@
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "B站直播",
-      "type": 0,
-      "url": "https://ztha.top/TVBox/lib/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
       "name": "YY轮播",
       "type": 0,
       "url": "https://ztha.top/TVBox/lib/yylunbo.m3u",
@@ -1686,14 +1670,6 @@
       "name": "肥羊虎牙一起看",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://x.szyyds.cn/huyayqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "肥羊B站直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://x.szyyds.cn/bililive.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.4.0.0"
@@ -2090,14 +2066,6 @@
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "B站直播",
-      "type": 0,
-      "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
       "name": "YY轮播",
       "type": 0,
       "url": "https://file.icve.com.cn/file_doc/178/700/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
@@ -2253,11 +2221,6 @@
       "name": "斗鱼一起看",
       "type": 0,
       "url": "https://sub.ottiptv.cc/douyuyqk.m3u"
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/bililive.m3u"
     },
     {
       "name": "YY轮播",
